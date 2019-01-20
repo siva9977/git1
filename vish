@@ -3,4 +3,5 @@ class Abc{
   a=10
  b=10
 c=gka
+ c=a+b
 }
